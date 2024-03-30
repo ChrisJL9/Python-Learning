@@ -1,4 +1,5 @@
 #Want to make a password AND store it so we can access it with "get password"
+#Can probably do it by writing data to a file/appending and searching that file when need to retrieve
 passwords = {} # Creates empty dictionary
 
 def add_password(account, password):
